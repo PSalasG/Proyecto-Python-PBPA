@@ -1,0 +1,4 @@
+tk==8.6.9
+sympy==1.12
+numpy==1.26.2
+matplotlib==3.8.2
